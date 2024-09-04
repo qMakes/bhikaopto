@@ -1,4 +1,1 @@
-# gym-app-landingpage
- SvelteKit & TailwindCSS Landing Page
-# bhikaopto
-# bhikaopto
+# Svelte-Kit and Tailwind website template by qhawe
